@@ -8,6 +8,6 @@ package Model;
  *
  * @author Franklin Aguirre
  */
-public class model {
+public class proffesor {
     
 }
